@@ -1,0 +1,19 @@
+/* Styling */
+
+body {
+    background-color: purple;
+}
+span:nth-child(odd){
+  color:teal;
+}
+span:nth-child(even){
+  color: white;
+}
+
+h2{
+    text-transform: uppercase;
+    font-size: 4em;
+    
+}
+
+   
